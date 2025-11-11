@@ -1,0 +1,8 @@
+## Interface: 110205
+## Title: BerryNotes
+## Notes: A simple note-taking addon
+## Author: Blueberry
+## Version: 1.0
+## SavedVariables: BerryNotesDB
+
+Core.lua
